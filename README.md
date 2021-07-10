@@ -15,6 +15,7 @@
  - [ ] Recorded version of pitch <br />
  
 ## Tools and Resources
+- [Module 3 from DevClassroom](https://devclassroom.dev/modules/how-do-i-design-a-website)
 - [Excalidraw](https://excalidraw.com)
 - [Figma](https://figma.com)
 
