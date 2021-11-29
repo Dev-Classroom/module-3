@@ -12,9 +12,6 @@ At the end of this project, you'll pitch your idea to potential investors (eithe
 
 ## Deliverables 
 
- - [ ] Mind map <br />
- - [ ] Design System <br />
- - [ ] Component Library <br />
  - [ ] Storyboard <br />
  - [ ] App Prototype <br />
  - [ ] User-interview reflection/plan of action <br />
